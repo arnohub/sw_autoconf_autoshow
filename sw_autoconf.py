@@ -19,7 +19,7 @@ dev_name =''
 host = ''
 
 ######Setting maxmun threading number######
-threads_max_num = 1    # 配置线上交换机时，建立不要调整次参数，单线程跑就可以
+threads_max_num = 1    # 配置线上交换机时，建立单线程跑
 ###########################################
 
 class ConfigSwitch(object):
