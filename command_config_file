@@ -1,0 +1,3 @@
+int lo0
+ip add 1.1.1.1 32
+save force
